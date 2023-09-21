@@ -41,8 +41,8 @@ $ yarn start
 
 |                                                                          **Client**                                                                          |                                                        **Server**                                                         |                                              **Database**                                               |                                                        **Deploy**                                                        |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="100"> | <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="130"> | <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100"> | <img src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" width="80"> |
-| React | node.js | MySQL | HEROKU |                                               |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" width="110"> | <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="130"> | <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100"> | <img src="https://download.logo.wine/logo/Cloudflare/Cloudflare-Logo.wine.png" width="130"> |
+| Next.js | node.js | MySQL | Cloudflare |                                               |
 
 
 <br/><br/><br/>
